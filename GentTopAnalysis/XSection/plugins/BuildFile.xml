@@ -1,0 +1,17 @@
+<export>
+</export>
+<library name="GentTopAnalysisXSection_plugins" file="*.cc">
+  <use name="FWCore/Common"/>
+  <use name="FWCore/Framework"/>
+  <use name="FWCore/ParameterSet"/>
+  <use name="FWCore/MessageLogger"/>
+  <use name="FWCore/MessageService"/>
+  <use name="DataFormats/Common"/>
+  <use name="DataFormats/StdDictionaries"/>
+  <use name="DataFormats/Candidate"/>
+  <use name="DataFormats/PatCandidates"/>
+  <use name="GentTopDataFormats/Common"/>
+  <use name="PhysicsTools/PatUtils"/>
+  <use name="PhysicsTools/PatAlgos"/>
+  <use name="root"/>
+</library>
